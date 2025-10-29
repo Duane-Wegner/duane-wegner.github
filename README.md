@@ -20,7 +20,7 @@ Welcome to my **CS-499 ePortfolio**! This repository hosts my personal ePortfoli
 ## Live Site
 
 View the ePortfolio online:  
-[Duane Wegner ePortfolio](https://duane-wegner.github.io/duane-wegner.github/)
+[Duane Wegner ePortfolio](https://duane-wegner.github.io/duane-wegner.github.io/)
 
 ---
 
