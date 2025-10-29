@@ -18,4 +18,4 @@ This ePortfolio showcases my projects, skills, and achievements as part of my CS
 ## Connect with Me
 
 - [GitHub Profile](https://github.com/Duane-Wegner)  
-- [LinkedIn Profile](https://linkedin.com/in/your-linkedin)
+- [LinkedIn Profile](https://www.linkedin.com/in/duane-wegner/)
