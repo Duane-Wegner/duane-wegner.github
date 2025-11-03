@@ -10,9 +10,8 @@ Welcome to my **CS-499 ePortfolio**! This repository hosts my personal ePortfoli
 - Uses the **Minimal Jekyll theme** for clean and professional styling. Theme by orderedlist aka [Steve Smith](https://github.com/orderedlist)
 - Sections include:
   - Welcome message
-  - Professional Self-Assessment
-  - Artifacts and Enhancements
-  - Code Review
+  - About Me
+  - Projects and Artifacts
   - Contact information
 
 ---
