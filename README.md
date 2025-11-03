@@ -25,7 +25,7 @@ View the ePortfolio online:
 
 ## Contact
 
-- [Email](mailto:duane.wegner@snhu.edu)  
+- [Email](mailto:duane.wegner@gmail.com)  
 - [GitHub Profile](https://github.com/Duane-Wegner)  
 - [LinkedIn Profile](https://www.linkedin.com/in/duane-wegner/)
 
