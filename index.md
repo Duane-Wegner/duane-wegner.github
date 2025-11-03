@@ -4,8 +4,7 @@ title: "Duane Wegner"
 
 # Welcome to My CS-499 ePortfolio
 
-Hello! I am **Duane Wegner**, a Computer Science student at **Southern New Hampshire University (SNHU)**.  
-This ePortfolio showcases my projects, skills, and achievements as part of my CS-499 Capstone.
+Hello! I am **Duane Wegner**, a Computer Science student at Southern New Hampshire University (SNHU). This ePortfolio showcases my projects, skills, and achievements as part of my CS-499 Capstone.
 
 ## About Me
 
