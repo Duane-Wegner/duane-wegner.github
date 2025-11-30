@@ -24,34 +24,34 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 
 ## Enhancements
 
-  ### One (Software Design and Engineering)
-  
-  ### The artifact was improved from the original Python version in several ways:
-  
-    -	A visual map layer with fog-of-war logic implemented in map.js and styled in css/styles.css.
-    -	Inventory UI with SVG icons created in inventory.js.
-    -	UX improvements including modal behavior and keyboard navigation managed in js/main.js.
-    -	Expanded documentation in README.md and inline comments across modules.
-  
-  ### Did you meet the course outcomes you planned to meet with this enhancement?
+### One (Software Design and Engineering)
+
+### The artifact was improved from the original Python version in several ways:
+
+  -	A visual map layer with fog-of-war logic implemented in map.js and styled in css/styles.css.
+  -	Inventory UI with SVG icons created in inventory.js.
+  -	UX improvements including modal behavior and keyboard navigation managed in js/main.js.
+  -	Expanded documentation in README.md and inline comments across modules.
+
+### Did you meet the course outcomes you planned to meet with this enhancement?
   -	Outcome 1 - Professional self-presentation: Met by creating a professional GitHub repository: This first enhancement can be viewed at: https://duane-wegner.github.io/Whispering-Woods/index.html, and the repository is available at https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1. 
   -	Outcome 2 - Professional communication: Met through README.md and clear in-file comments, demonstrating clear documentation and user communication.
   -	Outcome 3 - Algorithmic design and problem solving: Met via map.js and js/game.js, which implement fog-of-war logic, coordinate normalization, and item pickup mechanics.
   -	Outcome 4 - Use of modern tools and techniques: Met by using ES modules, modular UI files, and a namespaced persistence approach (js/storage.js).
   -	Outcome 5 - Security mindset: Partially met. Admin authentication is local-only (auth.js), and the README.md documents the threat model and limitations.
-  
-  ### Link to enhancement One:
-    [Whispering Woods Enhancement One](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1)
 
-  <br>
-  
-  ### Two (Algorithms and Data Structures)
+### Link to enhancement One:
+  [Whispering Woods Enhancement One](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1)
 
-  <br>
-  
-  ### Three (Databases)
+<br>
 
-  <br>
+### Two (Algorithms and Data Structures)
+
+<br>
+
+### Three (Databases)
+
+<br>
   
 
 ## Connect with Me
