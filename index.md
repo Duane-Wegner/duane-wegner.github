@@ -47,6 +47,22 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 
 ### Two (Algorithms and Data Structures)
 
+### The artifact was improved from the previous web version in several ways:
+  - Implemented graph algorithms in js/algorithms.js including bfsPath, bfsNearestWithItem, and reachableRooms for efficient map queries.
+  - Added developer-facing test and demo pages: js/algorithms-test.html (interactive demo) and js/algorithms-unit-test.html (unit tests).
+  - Integrated algorithm results into the UI: a "Highlight Nearest" control in main.js and map highlight styles in css/styles.css that visualize shortest paths.
+  - Made game logic inventory-aware so recommendations ignore already-collected items (js/game.js / main.js).
+  - Documented algorithm behavior and complexity (Big-O comments) and expanded inline comments to improve readability and maintainability.
+
+ ### Did you meet the course outcomes you planned to meet with this enhancement?
+  - Outcome 1 - Professional self-presentation: Met by maintaining a professional, demonstrable repo and providing live demo pages. This enhancement can be viewed on the demo/test pages in the enhancement-2 folder and the repo branch Enhancement-2.
+  - Outcome 2 - Professional communication: Met through added documentation and test pages that let reviewers run and inspect algorithm behavior; inline comments explain algorithm choices.
+  - Outcome 3 - Algorithmic design and problem solving: Met. BFS-based helpers and inventory-aware search demonstrate algorithmic design and reasoning; complexity is documented (O(V+E) for BFS) and behavior is validated with unit tests.
+  - Outcome 4 - Use of modern tools and techniques: Met. The work uses ES modules, modular test pages, DOM visualization, and a small in-browser test harness to validate logic and present results to stakeholders.
+  - Outcome 5 - Security mindset: Met through enhancement focuses on algorithms and UX; persistence and admin auth remain client-only and documented as such. Defensive coding and testability continue to support a security-aware development approach.
+
+### Link to enhancement Two:
+  [Whispering Woods Enhancement One](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2)
 <br>
 
 ### Three (Databases)
