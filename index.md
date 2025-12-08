@@ -54,7 +54,7 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
   - Made game logic inventory-aware so recommendations ignore already-collected items (js/game.js / main.js).
   - Documented algorithm behavior and complexity (Big-O comments) and expanded inline comments to improve readability and maintainability.
 
- ### Did you meet the course outcomes you planned to meet with this enhancement?
+### Did you meet the course outcomes you planned to meet with this enhancement?
   - Outcome 1 - Professional self-presentation: Met by maintaining a professional, demonstrable repo and providing live demo pages. This enhancement can be viewed on the demo/test pages in the enhancement-2 folder and the repo branch Enhancement-2.
   - Outcome 2 - Professional communication: Met through added documentation and test pages that let reviewers run and inspect algorithm behavior; inline comments explain algorithm choices.
   - Outcome 3 - Algorithmic design and problem solving: Met. BFS-based helpers and inventory-aware search demonstrate algorithmic design and reasoning; complexity is documented (O(V+E) for BFS) and behavior is validated with unit tests.
