@@ -43,20 +43,20 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 
 ## Enhancements
 
-  ### One (Software Design and Engineering)
+  <h3>One (Software Design and Engineering)</h3>
   
-  ### Enhancement 1: Initial Web-Based Conversion
+  <h3>Enhancement 1: Initial Web-Based Conversion</h3>
   
-  ### Description of the Enhancement
+  <h3>Description of the Enhancement</h3>
   Enhancement 1 converted Whispering Woods from a Python text-based game into a web-based interactive application using HTML, CSS, and JavaScript. Features included modular front-end and back-end design, basic map exploration, player inventory display, and state persistence using localStorage.
   
-  ### Justification for Inclusion
+  <h3>Justification for Inclusion</h3>
   This enhancement demonstrates my ability to restructure existing software for maintainability, usability, and interactivity. The modular code structure, clear user interface, and inventory management highlight proficiency in software engineering, front-end design, and JavaScript programming. The enhancement improved the artifact by providing a playable web interface with persistent game state.
   
-  ### Reflection on the Process
+  <h3>Reflection on the Process</h3>
   I learned to modularize code, implement dynamic user interface updates, and maintain persistent game state. Challenges included translating Python logic into JavaScript and ensuring that the map and inventory updated correctly. Feedback on user interface clarity and modularity helped improve maintainability.
   
-  ### Course Outcomes Achieved
+  <h3>Course Outcomes Achieved</h3>
   - Outcome 1 Collaborative Environments: Achieved. Structured GitHub repository with branching and feature organization.
   - Outcome 2 Professional Communication: Achieved. Clear user interface, structured documentation, and in-game guidance.
   - Outcome 3 Design and Evaluate Computing Solutions: Achieved. Data-driven room model, fog-of-war logic, and clean state separation.
@@ -66,50 +66,50 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 ### Link to Enhancement One:
   [Whispering Woods Enhancement One](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1)
 
-  ### Two (Algorithms and Data Structures)
+  <h3>Two (Algorithms and Data Structures)</h3>
   
-  ### Enhancement 2: Algorithmic and User Interface Improvements
+  <h3>Enhancement 2: Algorithmic and User Interface Improvements</h3>
   
-  ### Description of the Enhancement
+  <h3>Description of the Enhancement</h3>
   Enhancement 2 improved algorithmic logic and user experience. Features added included breadth-first search pathfinding hints, enhanced inventory management, fog-of-war map updates, and algorithm testing pages.
   
-  ### Justification for Inclusion
+  <h3>Justification for Inclusion</h3>
   This enhancement demonstrates skills in designing efficient algorithms, integrating game logic with the user interface, and creating scalable systems. Pathfinding, dynamic inventory, and algorithm testing highlight competency in data structures, object manipulation, and optimization. The artifact was improved by increasing interactivity, responsiveness, and algorithmic sophistication.
   
-  ### Reflection on the Process
+  <h3>Reflection on the Process</h3>
   I learned to balance performance with complexity, integrate algorithms into the user interface, and design testable components. Challenges included managing interactions between algorithm outputs and user interface updates and debugging pathfinding logic. Feedback from self-testing and peer reviews guided improvements in performance and usability.
   
-  ### Course Outcomes Achieved
+  <h3>Course Outcomes Achieved</h3>
   - Outcome 1 Collaborative Environments: Achieved. Continued use of GitHub branches and overlay sharing for team workflow.
   - Outcome 2 Professional Communication: Achieved. Improved in-app guidance, clear interface labels, and structured documentation.
   - Outcome 3 Design and Evaluate Computing Solutions: Achieved. Pathfinding, dynamic room logic, and inventory optimization implemented.
   - Outcome 4 Techniques Skills and Tools: Achieved. Modular JavaScript patterns, responsive CSS, and client-side persistence.
   - Outcome 5 Security Mindset: Achieved. Client-side hashed admin login, namespaced storage, and input validation applied.
 
-### Link to Enhancement Two:
+<h3>Link to Enhancement Two:</h3>
   [Whispering Woods Enhancement Two](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2)
 
-### Three (Databases)
+<h3>Three (Databases)</h3>
 
-### Enhancement 3: Full-Stack Integration and Admin Features
+<h3>Enhancement 3: Full-Stack Integration and Admin Features</h3>
 
-### Description of the Enhancement
+<h3>Description of the Enhancement</h3>
 Enhancement 3 implemented full-stack integration and advanced admin features. Features include import and export of overlay JSON files, namespaced localStorage for admin edits, runtime merge and patch logic, improved admin interface, and defensive coding practices.
 
-### Justification for Inclusion
+<h3>Justification for Inclusion</h3>
 This enhancement highlights expertise in full-stack concepts, data handling, and secure coding. Overlay import and export, namespaced storage, and merge logic demonstrate modular design, effective data management, and security practices. The artifact was improved by supporting collaborative editing, maintaining data integrity, and enhancing administrative controls.
 
-### Reflection on the Process
+<h3>Reflection on the Process</h3>
 Through this enhancement, I learned advanced data management techniques, defensive coding strategies, and best practices for persistence in JavaScript. Challenges included ensuring reliable merge logic for overlays and preventing accidental data loss. Feedback from code reviews helped improve documentation, error handling, and user guidance.
 
-### Course Outcomes Achieved
+<h3>Course Outcomes Achieved</h3>
 - Outcome 1 Collaborative Environments: Achieved. Overlay JSON import and export enables collaboration and sharing of artifacts.
 - Outcome 2 Professional Communication: Achieved. Project documentation, clear interface labels, and inline technical comments communicate effectively to users and stakeholders.
 - Outcome 3 Design and Evaluate Computing Solutions: Achieved. Canonical data model, overlay application, and algorithm demos validate design and solution evaluation skills.
 - Outcome 4 Techniques Skills and Tools: Achieved. ES modules, fetch API, Blob downloads, structuredClone, and modular storage abstraction demonstrate modern computing techniques.
 - Outcome 5 Security Mindset: Achieved. Defensive coding, validation before applying overlays, and namespaced storage ensure secure artifact manipulation.
 
-### Link to Enhancement Three:
+<h3>Link to Enhancement Three:</h3>
   [Whispering Woods Enhancement Three](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-3)  
 
 ## Connect with Me
