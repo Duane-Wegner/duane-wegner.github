@@ -43,7 +43,7 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 
 ## Enhancements
 
-  <h3>One (Software Design and Engineering)</h3>
+  <h2>One (Software Design and Engineering)</h2>
   
   <h3>Enhancement 1: Initial Web-Based Conversion</h3>
   
@@ -66,7 +66,7 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 ### Link to Enhancement One:
   [Whispering Woods Enhancement One](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1)
 
-  <h3>Two (Algorithms and Data Structures)</h3>
+  <h2>Two (Algorithms and Data Structures)</h2>
   
   <h3>Enhancement 2: Algorithmic and User Interface Improvements</h3>
   
@@ -89,7 +89,7 @@ The artifact I selected is the Python text adventure developed in IT 140. The or
 <h3>Link to Enhancement Two:</h3>
   [Whispering Woods Enhancement Two](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2)
 
-<h3>Three (Databases)</h3>
+<h2>Three (Databases)</h2>
 
 <h3>Enhancement 3: Full-Stack Integration and Admin Features</h3>
 
