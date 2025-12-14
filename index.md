@@ -112,6 +112,36 @@ Through this enhancement, I learned advanced data management techniques, defensi
 <h3>Link to Enhancement Three:</h3>
   [Whispering Woods Enhancement Three](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-3)  
 
+## Screenshots
+
+<h3>Admin Login<br></h3>
+A lightweight local-only login screen used to protect the admin overlay.<br>
+<img src="images/admin-login.png" width="500" height="250">
+
+<h3>Admin Panel<br></h3>
+Tools for editing rooms, items, exits, and map metadata during development.<br>
+<img src="images/admin-panel.png" width="500">
+
+<h3>Home Page<br></h3>
+Landing page that leads into the main game.<br>
+<img src="images/home.png" width="500">
+
+<h3>Game Play<br></h3>
+Main interface showing the fog-of-war map, inventory, movement controls, and event log.<br>
+<img src="images/game.png" width="500">
+
+<h3>Add Room / Export Changes / Import Changes</h3>
+Admin interface showing the added features and a working test room that has been added.<br>
+<img src="images/test-a.png" width="500"> <img src="images/test-a_Room.png" width="500">
+
+<h3>Algorithms Demo</h3>
+Admin interface showcasing the Algorithms Demo.<br>
+<img src="images/AlgoTest.png" width="500">
+
+<h3>Algorithms Unit Tests</h3>
+Admin interface showcasing the Algorithms Unit Test.<br>
+<img src="images/algoUnitTest.png" width="500">
+
 ## Connect with Me
 
 - [GitHub Profile](https://github.com/Duane-Wegner)  
