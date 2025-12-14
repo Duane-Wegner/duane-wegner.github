@@ -42,11 +42,12 @@ This professional self-assessment serves as an introduction to my ePortfolio and
 
 ## Capstone Project Links
 
-- [Running ePortfolio](https://duane-wegner.github.io/) – Live version of my full ePortfolio.
-- [Enhancement 1 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1) – Shows the initial web conversion of the Python text-based game.
-- [Enhancement 2 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2) – Demonstrates algorithmic and user interface improvements for better game play.
-- [Enhancement 3 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-3) – Implements full-stack integration, admin features, and secure data handling.
-- [Running Web Version of Whispering Woods](https://duane-wegner.github.io/Whispering-Woods) – Live version including all enhancements combined.
+- <a href="https://duane-wegner.github.io/" target="_blank">Running ePortfolio</a> – Live version of my full ePortfolio.
+- <a href="https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1" target="_blank">Enhancement 1 GitHub Repository</a> – Shows the initial web conversion of the Python text-based game.
+- <a href="https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2" target="_blank">Enhancement 2 GitHub Repository</a> – Demonstrates algorithmic and user interface improvements for better game play.
+- <a href="https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-3" target="_blank">Enhancement 3 GitHub Repository</a> – Implements full-stack integration, admin features, and secure data handling.
+- <a href="https://duane-wegner.github.io/Whispering-Woods" target="_blank">Running Web Version of Whispering Woods</a> – Live version including all enhancements combined.
+
 
 
 ## Artifact Code Review
