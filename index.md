@@ -20,12 +20,33 @@ The artifacts included in my ePortfolio reflect a progression of skills and demo
 
 This professional self-assessment serves as an introduction to my ePortfolio and illustrates my strengths as a computer science professional. It emphasizes my ability to collaborate, communicate, design efficient solutions, implement software and database systems, and maintain secure practices. The artifacts that follow provide tangible examples of these skills in action and collectively demonstrate my preparedness to meet the demands of a career in computer science.
 
+## Index
+- [About Me](#about-me)
+- [Capstone Project Links](#capstone-project-links)
+- [Artifact Code Review](#artifact-code-review)
+- [Artifact](#artifact)
+- [Enhancements](#enhancements)
+  - [Enhancement 1: Initial Web-Based Conversion](#enhancement-1-initial-web-based-conversion)
+  - [Enhancement 2: Algorithmic and User Interface Improvements](#enhancement-2-algorithmic-and-user-interface-improvements)
+  - [Enhancement 3: Full-Stack Integration and Admin Features](#enhancement-3-full-stack-integration-and-admin-features)
+- [Screenshots](#screenshots)
+- [Connect with Me](#connect-with-me)
+
+
 
 ## About Me
 
 - **Background:** U.S. Army IT Specialist, network and fiber engineering, and current Computer Science student  
 - **Skills:** Java, C++, Python, JavaScript, Android development, web development, Git  
 - **Career Goal:** To become a software developer or full-stack engineer, building interactive and scalable applications
+
+## Capstone Project Links
+
+- [Running ePortfolio](https://duane-wegner.github.io/) – Live version of my full ePortfolio.
+- [Enhancement 1 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1) – Shows the initial web conversion of the Python text-based game.
+- [Enhancement 2 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2) – Demonstrates algorithmic and user interface improvements for better game play.
+- [Enhancement 3 GitHub Repository](https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-3) – Implements full-stack integration, admin features, and secure data handling.
+- [Running Web Version of Whispering Woods](https://duane-wegner.github.io/Whispering-Woods) – Live version including all enhancements combined.
 
 
 ## Artifact Code Review
