@@ -42,7 +42,6 @@ This professional self-assessment serves as an introduction to my ePortfolio and
 
 ## Capstone Project Links
 
-- <a href="https://duane-wegner.github.io/" target="_blank">Running ePortfolio</a> – Live version of my full ePortfolio.
 - <a href="https://github.com/Duane-Wegner/Whispering-Woods" target="_blank">Main Project Repository</a> – The full Whispering Woods project repository containing all enhancements and code.
 - <a href="https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-1" target="_blank">Enhancement 1 GitHub Repository</a> – Shows the initial web conversion of the Python text-based game.
 - <a href="https://github.com/Duane-Wegner/Whispering-Woods/tree/Enhancement-2" target="_blank">Enhancement 2 GitHub Repository</a> – Demonstrates algorithmic and user interface improvements for better game play.
